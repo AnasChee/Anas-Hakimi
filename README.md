@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on: **honing my programming skills and building awesome software projects**
+
 - 🌱 I’m currently learning **Web Development, UI/UX Design, and Software Engineering principles**
 
 - 👯 I’m looking to collaborate on: **👯 open-source projects, hackathons, and innovative tech ideas**
@@ -14,8 +16,6 @@
 - 🤝 I’m looking for help with **mastering full-stack development and advanced algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnasChee](https://github.com/AnasChee)
-
-- 📝 I regularly write articles on [https://linkedin.com/in/al-anas-hakimi](https://linkedin.com/in/al-anas-hakimi](https://linkedin.com/in/al-anas-hakimi](https://linkedin.com/in/al-anas-hakimi)
 
 - 💬 Ask me about **Tech trends, software development, and football! ⚽**
 
